@@ -1,0 +1,9 @@
+Clause 1: The lessee shall maintain the premises in good condition and comply with all safety regulations throughout the lease term.
+
+Clause 2: Termination may occur without prior notice if the lessee fails to adhere to the confidentiality obligations outlined in this agreement.
+
+Clause 3: The service provider agrees to implement reasonable security measures to protect sensitive data from unauthorized access or disclosure.
+
+Clause 4: Payment terms require the client to settle invoices within 30 days of receipt. Late payments may incur interest at the rate of 2% per month.
+
+Clause 5: Either party may terminate this agreement with 60 days written notice. Upon termination, all confidential materials must be returned or destroyed.

@@ -1,0 +1,12 @@
+
+requests
+aiohttp
+python-dotenv
+openai
+langchain
+pydantic
+fastapi
+uvicorn
+azure-identity
+azure-search-documents
+azure-storage-blob
